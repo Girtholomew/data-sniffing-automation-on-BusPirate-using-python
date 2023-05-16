@@ -1,11 +1,12 @@
 '''
 Pins used:
-D13 --> D13 --> CLK
-D12 --> D12 --> MISO
-D11 --> D11 --> MOSI
-D10 --> D10 --> CS
-GND --> GND --> GND
-Vin --> Vin 
+Arduino 1 | Arduino 2 | BusPirate
+D13      --> D13     --> CLK
+D12      --> D12     --> MISO
+D11      --> D11     --> MOSI
+D10      --> D10     --> CS
+GND      --> GND     --> GND
+Vin      --> Vin     --> N/A
 '''
 
 import time
