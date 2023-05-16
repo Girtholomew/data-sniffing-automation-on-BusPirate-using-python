@@ -1,8 +1,9 @@
 '''
 Pins used:
-D10 --> D1  --> MOSI
-D11 --> D0  --> MISO
-GND --> GND --> GND
+Arduino 1 | Arduino 2 | BusPirate
+D10      --> D1      --> MOSI
+D11      --> D0      --> MISO
+GND      --> GND     --> GND
 '''
 
 import time 
