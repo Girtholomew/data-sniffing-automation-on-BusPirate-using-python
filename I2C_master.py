@@ -1,9 +1,10 @@
 '''
 Pins used:
-A4  --> A4  --> MOSI
-A5  --> A5  --> CLK
-5V  --> Vin --> Vp
-GND --> GND --> GND
+Arduino 1 | Arduino 2 | Buspirate
+A4       --> A4       --> MOSI
+A5       --> A5       --> CLK
+5V       --> Vin      --> Vp
+GND      --> GND      --> GND
 '''
 
 import time
