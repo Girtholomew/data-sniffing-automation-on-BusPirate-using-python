@@ -1,4 +1,4 @@
-# data-sniffing-automation-on-BusPirate-using-python
+# Buspirate data snifiing automation using python
 
 # Using the BusPirate
 I connected the BusPirate to my laptop. Then I wired up two arduinos that are communicating using the I²C protocol, just sending numbers from the slave device to the master device. Then I used a software named Teraterm to communicate with the device. Then I opened Teraterm and selected the Serial option, and selected the port to which the BusPirate is connected to. Then I sent `?` to the device, which shows a list of available commmands that can be used.
